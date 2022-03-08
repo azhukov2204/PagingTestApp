@@ -1,4 +1,4 @@
-package ru.androidlearning.paggingtestapp
+package ru.androidlearning.pagingtestapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

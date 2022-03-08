@@ -1,4 +1,4 @@
-package ru.androidlearning.paggingtestapp
+package ru.androidlearning.pagingtestapp
 
 import org.junit.Test
 
