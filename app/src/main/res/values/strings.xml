@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PaggingTestApp</string>
+    <string name="description_star_iv">star_iv</string>
+    <string name="description_messages_iv">messages_iv</string>
 </resources>
